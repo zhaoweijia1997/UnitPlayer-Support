@@ -7,4 +7,4 @@ Data Collection: No personal information is collected.
 
 Third-Party Sharing: No data is shared with third parties.
 
-Contact: For any questions, please contact zhaoweijiaboy@gmail.coma
+Contact: For any questions, please contact zhaoweijiaboy@gmail.com
