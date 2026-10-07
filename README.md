@@ -30,4 +30,4 @@ If this policy changes, the new version will be posted here with a new effective
 
 ## Contact
 
-For any questions, please contact zhaoweijiaboy@gmail.com
+For any questions, please contact sublueai@gmail.com
