@@ -51,4 +51,4 @@ On Linux, use `linux-x86_64` instead of `darwin-x86_64`. The native methods are 
 
 ## Contact
 
-sublueai@gmail.com
+techinfor404@gmail.com
