@@ -1,7 +1,7 @@
 # UnitPlayer-Support
 Privacy Policy for UnitPlayer (iPhone and Android)
 
-Effective date: November 6, 2026
+Effective date: November 7, 2026
 
 UnitPlayer is a video and music player made by UnitApp. It does not collect, store or share any personal data. There are no accounts, no ads, no analytics and no tracking. Everything the app keeps stays on your device.
 
@@ -31,6 +31,10 @@ Settings › About has an optional "Buy the Developer a Coffee". It is paid enti
 - Google Play handles the payment. We never see your payment details, name or email. Google tells the app only that a purchase went through, so it can say thank you.
 - The app talks to Google Play's billing service only while that card is open (or once at start, if a payment was still pending). Google's billing library may send Google basic diagnostic information about that connection. This is handled by Google under the [Google Privacy Policy](https://policies.google.com/privacy); we don't receive it.
 - The app keeps no record of purchases. Your purchase history is in your Google Play account.
+
+## Private space (Android)
+
+Videos you move into a private space are encrypted and kept only in the app's private storage on your phone. They are never sent anywhere. Passwords, patterns, recovery codes and key files are not sent anywhere either, and we have no copy of them: if you lose both the password and the recovery code, nobody can open the space, including us. Uninstalling the app can delete these videos. If you turn on fingerprint for a space, Android does the fingerprint check; the app never receives your fingerprint.
 
 ## What stays on your device
 
