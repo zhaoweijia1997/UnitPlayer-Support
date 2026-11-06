@@ -1,7 +1,7 @@
 # UnitPlayer-Support
 Privacy Policy for UnitPlayer (iPhone and Android)
 
-Effective date: October 29, 2026
+Effective date: November 6, 2026
 
 UnitPlayer is a video and music player made by UnitApp. It does not collect, store or share any personal data. There are no accounts, no ads, no analytics and no tracking. Everything the app keeps stays on your device.
 
@@ -10,8 +10,9 @@ UnitPlayer is a video and music player made by UnitApp. It does not collect, sto
 - **Videos on your device.** UnitPlayer asks for access to your videos (on Android: "Photos and videos" or storage access; on iPhone: the photo library) only to list them, show thumbnails and play them. Your videos are never uploaded or sent anywhere.
 - **Music on your device (Android).** UnitPlayer asks for access to music and audio only to list your songs, show their album pictures and play them. Song tags, lyrics files (.lrc) and album sheets (.cue) are read on your device. Nothing is uploaded, and lyrics are never looked up on the internet.
 - **Folders you choose.** If you add a folder, the app reads the videos or music in that folder, and the subtitles, lyrics, album sheets and pictures beside them. It deletes a file only when you ask it to.
-- **Your local network and the internet.** These are used only to connect to servers you add or that are found on your local network (SMB, WebDAV, FTP and DLNA media servers), and to play links you open, so you can browse and stream your own videos and music. Network discovery looks for such servers and TVs on your Wi-Fi; the results stay on your device.
-- **Server logins.** Usernames and passwords for your servers are stored encrypted on your device (Android Keystore / iOS Keychain) and are sent only to the server they belong to.
+- **Your local network and the internet.** These are used only to connect to servers you add or that are found on your local network (SMB, WebDAV, FTP, SFTP and DLNA media servers), and to play links you open, so you can browse and stream your own videos and music. Network discovery looks for such servers and TVs on your Wi-Fi; the results stay on your device.
+- **Server logins.** Usernames, passwords and private keys for your servers are stored encrypted on your device (Android Keystore / iOS Keychain). Usernames and passwords are sent only to the server they belong to; a private key is used on your device to sign in and never leaves it. For SFTP servers, the app also keeps each server's key fingerprint on your device, so it can warn you if the server changes.
+- **Web pages you share (Android).** When you share a web page with UnitPlayer, or paste its address into Play Link, your device opens that address to look for a video file on the page, the same way a browser would, and plays what it finds. Nothing is sent to us, and the app doesn't save the page or download the video.
 - **Playing on a TV.** When you cast to a TV on your Wi-Fi, the app sends that TV the video's address. For videos on your phone or on a server that needs a login, the phone shares that one video (and its subtitle file) with that TV over your local network, at a random address, only while casting.
 - **Wi-Fi transfer.** When you open Wi-Fi transfer, the phone accepts video files from a computer on the same Wi-Fi at a random address shown on the screen, only while that window is open. Received videos are saved to your phone's Movies/UnitPlayer folder.
 
